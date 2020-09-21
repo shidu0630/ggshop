@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "5f5dbbfa65f4d621643c9545"
+  },
+  "username": "user1",
+  "password": "$2b$10$XpPSSma9e8K5RJFbEr/66eo2RqC3VMoP1ootZMY.cJWuG23IbCa06",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5dbc0d160cb31e187c0c83"
+  },
+  "username": "user2",
+  "password": "$2b$10$uB9TNHFsWsMYIGk3xW2/d..1XSoXJj.BUvIEhe/ndWZYUPhU673PC",
+  "__v": 0
+}]
